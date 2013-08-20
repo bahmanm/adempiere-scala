@@ -1,0 +1,14 @@
+*~
+~*
+#*
+*#
+*.class
+/.classpath
+/.fslckout
+/.project
+/.settings
+/bin
+*.jasper
+target/
+
+
